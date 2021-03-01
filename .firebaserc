@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ig-reels-95fb5": {
+      "hosting": {
+        "TicTac": [
+          "ig-reels-95fb5"
+        ]
+      }
+    }
+  }
+}
